@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonminseok242&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=radical)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat&color=0e75b6)
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
