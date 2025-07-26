@@ -53,3 +53,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
+
+---
+
+## 🧩 BOJ (Baekjoon Online Judge)
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsasltjr" alt="solved.ac tier badge"/>
+  <br>
+  <img src="http://mazandi.herokuapp.com/api?handle=rnjsasltjr&theme=dark" alt="BOJ stats card"/>
+</p>
