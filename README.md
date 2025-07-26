@@ -59,7 +59,12 @@
 ## 🧩 BOJ (Baekjoon Online Judge)
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsasltjr" alt="solved.ac tier badge"/>
+  <a href="https://www.acmicpc.net/user/rnjsasltjr" target="_blank">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsasltjr" alt="solved.ac tier badge"/>
+  </a>
   <br>
-  <img src="http://mazandi.herokuapp.com/api?handle=rnjsasltjr&theme=dark" alt="BOJ stats card"/>
+  <a href="https://www.acmicpc.net/user/rnjsasltjr" target="_blank">
+    <img src="http://mazandi.herokuapp.com/api?handle=rnjsasltjr&theme=dark" alt="BOJ stats card"/>
+  </a>
 </p>
+
