@@ -59,7 +59,7 @@
 ## 🧩 BOJ (Baekjoon Online Judge)
 
 <p align="center">
-  <a href="https://solved.ac/profile/rnjsalstjr" target="_blank">
+  <a href="[https://solved.ac/profile/rnjsalstjr](https://solved.ac/profile/rnjsalstjr)" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsasltjr" alt="solved.ac tier badge"/>
   </a>
   <br>
