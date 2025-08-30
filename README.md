@@ -64,7 +64,7 @@
   </a>
   <br>
   <a href="https://www.acmicpc.net/user/rnjsasltjr" target="_blank">
-    <img src="http://mazandi.herokuapp.com/api?handle=rnjsasltjr&theme=dark" alt="BOJ stats card"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr)](https://solved.ac/rnjsalstjr/>
   </a>
 </p>
 
