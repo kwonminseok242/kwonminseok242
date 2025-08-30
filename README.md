@@ -51,12 +51,12 @@
 
 ## 🧩 BOJ (Baekjoon Online Judge)
 <p align="center">
-  <a href="https://solved.ac/profile/rnjsalstjr" target="_blank">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsalstjr" alt="solved.ac tier badge"/>
+  <a href="https://solved.ac/profile/rnjsalstjr">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=rnjsalstjr" alt="Solved.ac Profile"/>
   </a>
   <br><br>
-  <a href="https://www.acmicpc.net/user/rnjsalstjr" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr" alt="solved.ac profile"/>
+  <a href="https://www.acmicpc.net/user/rnjsalstjr">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr" alt="BOJ Profile"/>
   </a>
 </p>
 
