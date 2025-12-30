@@ -24,13 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwonminseok242&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -41,7 +34,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&hide_border=true"/>
 </p>
 
 ---
