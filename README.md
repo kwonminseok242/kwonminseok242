@@ -35,7 +35,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/trophies.svg" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=flat" alt="GitHub Trophies" />
+  </a>
 </p>
 
 
