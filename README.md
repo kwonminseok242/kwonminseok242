@@ -1,5 +1,6 @@
+# 🌊 Hello, I'm Minseok!
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&text=Hello+i%27m+Minseok&fontSize=70&desc=Business+%26+Engineering+Student&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Minseok%20Kwon&fontSize=70&desc=Business%20%26%20Engineering%20Student&descSize=20" />
 </p>
 
 <p align="center">
@@ -8,11 +9,13 @@
 
 ---
 
-### 🏃‍♂️ Walking Friends
+### 🏃‍♂️ Walking Friends (Keep Moving!)
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@kwonminseok242?theme=asoul" alt="walking friends" />
-  <br>
-  <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/assets/loop.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/assets/loop.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6P997M7C/giphy.gif" width="100px" />
 </p>
 
 ---
@@ -23,18 +26,22 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 Stats & Contributions
+### 🐍 Snake Contribution Game
 <p align="center">
-  <img src="https://github.com/kwonminseok242/kwonminseok242/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 </p>
 
+---
+
+### 📊 Stats & Algorithm
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
 <p align="center">
@@ -44,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" width="120" />
 </p>
