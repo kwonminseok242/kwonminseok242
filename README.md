@@ -34,7 +34,13 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=dracula&row=1&margin-w=10"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=kwonminseok242
+    &theme=dracula
+    &no-frame=true
+    &margin-w=15
+    &column=6"
+  />
 </p>
 
 ---
