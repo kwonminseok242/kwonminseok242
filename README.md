@@ -41,9 +41,12 @@
 </p>
 
 ---
-
+## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight)
+
+---
+## 🏆 GitHub Languages
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight)
 
 ## 🧩 BOJ (Baekjoon Online Judge)
