@@ -1,5 +1,5 @@
 # 💫 Kwon Min-seok (Calcifer)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&text=Hello+i%27m+Minseok&fontSize=70&fontAlign=50&fontAlignY=50&desc=Business%20&%20Engineering%20Student%20|%20AI%20&%20Crypto%20Enthusiast&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&text=Hello+i%27m+Minseok&fontSize=70&fontAlign=50&fontAlignY=50&desc=Industrial%20Engineering%20|%20AI%20Engineering%20|%20Data%20Analysis&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat-square&color=6a737d" alt="visitor badge" />
@@ -14,10 +14,10 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 <b>Education:</b> Business & Engineering (4th Year)</li>
-        <li>🔍 <b>Focus:</b> Cryptocurrency Risk Assessment & AI Agent Technology</li>
-        <li>💻 <b>Latest Activity:</b> Preparing for Softeer Bootcamp & Coding Tests</li>
-        <li>💌 <b>Goal:</b> Building robust systems with Data Science and Engineering</li>
+        <li>🎓 <b>Major:</b> Industrial Engineering (Focus on Optimization & Data)</li>
+        <li>🤖 <b>AI Engineering:</b> Developing AI Agents & Machine Learning Models</li>
+        <li>📊 <b>Data Analysis:</b> Extracting insights from complex financial/crypto datasets</li>
+        <li>💻 <b>Current:</b> Strengthening CS fundamentals & preparing for Softeer Bootcamp</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -30,25 +30,27 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧠 Data Science & AI
+### 🧪 AI & Data Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
-### 📱 App & Web Development
+### 🏗️ Backend & Dev-Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### 📱 Cross-Platform
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-### ⚙️ Database & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
@@ -85,4 +87,4 @@
 
 <br>
 
-<p align="center"><i>"Building the future of Finance with AI."</i></p>
+<p align="center"><i>"Optimization-driven AI Engineer, bridging the gap between Data and Efficiency."</i></p>
