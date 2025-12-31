@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" width="200" alt="Calcifer GIF" />
+      <img src="https://github.com/kwonminseok242/kwonminseok242/blob/main/calcifer.gif" />
     </td>
   </tr>
 </table>
