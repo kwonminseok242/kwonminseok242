@@ -35,10 +35,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=dracula" alt="GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/trophies.svg" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
