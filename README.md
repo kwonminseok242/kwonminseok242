@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" 
-    width="550" 
-    alt="Calcifer GIF" 
-  />
+  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" width="550" alt="Calcifer GIF" />
 </p>
 
 ---
@@ -36,29 +32,26 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=flat&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
-
 ---
 
-## 🏆 GitHub Stats
+## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 🏆 GitHub Languages
+## 🧩 Language & Solve
 <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight"/>
-</p>
-
-## 🧩 BOJ (Baekjoon Online Judge)
-<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight" height="180" />
   <a href="https://solved.ac/profile/rnjsalstjr">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr" alt="Solved.ac Profile"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr" height="180" alt="Solved.ac Profile"/>
   </a>
 </p>
+
+<br>
