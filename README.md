@@ -42,12 +42,9 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight)
 
 ## 🧩 BOJ (Baekjoon Online Judge)
 <p align="center">
