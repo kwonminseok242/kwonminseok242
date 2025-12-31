@@ -8,12 +8,8 @@
   <img 
     src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif"
     width="550"
+    alt="Calcifer GIF"
   />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat&color=0e75b6" alt="visitor badge" />
 </p>
 
 ---
@@ -36,17 +32,19 @@
 
 ---
 
-
 ## 🏆 GitHub Trophies
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=dracula&row=1&margin-w=10"/> 
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=kwonminseok242&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
