@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=Hello+I%27m+minseok&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
-![캘시퍼](https://github.com/kwonminseok242/kwonminseok242/blob/main/images.jpeg)
+![캘시퍼]([https://github.com/kwonminseok242/kwonminseok242/blob/main/images.jpeg](https://namu.wiki/w/%EC%BA%98%EC%8B%9C%ED%8D%BC?uuid=2a21dacc-5f6a-4d9c-99b2-c593b6ed2e31))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat&color=0e75b6" alt="visitor badge" />
