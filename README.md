@@ -1,55 +1,64 @@
-# 🌊 Hello, I'm Minseok!
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Minseok%20Kwon&fontSize=70&desc=Business%20%26%20Engineering%20Student&descSize=20" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=Hello+i%27m+minseok&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat-square&color=0e75b6" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat&color=0e75b6" alt="visitor badge" />
 </p>
 
----
-
-### 🏃‍♂️ Walking Friends (Keep Moving!)
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/assets/loop.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxx6P997M7C/giphy.gif" width="100px" />
+  <img 
+    src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" 
+    width="550" 
+    alt="Calcifer GIF" 
+  />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
 
-### 🐍 Snake Contribution Game
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=6" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
 ---
-
-### 📊 Stats & Algorithm
+## 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight" />
 </p>
 
+---
+## 🏆 GitHub Languages
+<p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🧩 BOJ (Baekjoon Online Judge)
 <p align="center">
   <a href="https://solved.ac/profile/rnjsalstjr">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr" alt="Solved.ac Profile"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif" width="120" />
-</p>
+---
