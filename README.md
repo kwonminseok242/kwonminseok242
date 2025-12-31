@@ -2,7 +2,7 @@
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/cacifer.gif"
-    width="350"
+    width="550"
   />
 </p>
 
