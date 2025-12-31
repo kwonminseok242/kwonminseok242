@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-label="GitHub trophies">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#151a2c"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b1f36"/>
+      <stop offset="100%" stop-color="#101326"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .title{font:700 14px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;fill:#e6e6ff}
+      .sub{font:500 12px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;fill:#a9b1d6}
+      .emoji{font:700 20px -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="180" rx="20" fill="url(#bg)"/>
+
+  <!-- 카드 6개 -->
+  <!-- card(w=170,h=120), gap=15, start=25 -->
+  <g filter="url(#shadow)">
+    <!-- 1 -->
+    <g transform="translate(25,30)">
+      <rect width="170" height="120" rx="16" fill="url(#card)"/>
+      <text x="18" y="42" class="emoji">🏅</text>
+      <text x="54" y="44" class="title">Consistency</text>
+      <text x="18" y="78" class="sub">Keep shipping daily</text>
+    </g>
+
+    <!-- 2 -->
+    <g transform="translate(210,30)">
+      <rect width="170" height="120" rx="16" fill="url(#card)"/>
+      <text x="18" y="42" class="emoji">⭐</text>
+      <text x="54" y="44" class="title">Impact</text>
+      <text x="18" y="78" class="sub">Build useful things</text>
+    </g>
+
+    <!-- 3 -->
+    <g transform="translate(395,30)">
+      <rect width="170" height="120" rx="16" fill="url(#card)"/>
+      <text x="18" y="42" class="emoji">🧠</text>
+      <text x="54" y="44" class="title">Learning</text>
+      <text x="18" y="78" class="sub">Always improving</text>
+    </g>
+
+    <!-- 4 -->
+    <g transform="translate(580,30)">
+      <rect width="170" height="120" rx="16" fill="url(#card)"/>
+      <text x="18" y="42" class="emoji">🛠️</text>
+      <text x="54" y="44" class="title">Craft</text>
+      <text x="18" y="78" class="sub">Clean & reliable code</text>
+    </g>
+
+    <!-- 5 -->
+    <g transform="translate(765,30)">
+      <rect width="170" height="120" rx="16" fill="url(#card)"/>
+      <text x="18" y="42" class="emoji">🚀</text>
+      <text x="54" y="44" class="title">Growth</text>
+      <text x="18" y="78" class="sub">Ship, iterate, win</text>
+    </g>
+
+    <!-- 6 -->
+    <g transform="translate(950,30)">
+      <rect width="125" height="120" rx="16" fill="url(#card)"/>
+      <text x="18" y="42" class="emoji">🔥</text>
+      <text x="54" y="44" class="title">Momentum</text>
+      <text x="18" y="78" class="sub">Stay in the flow</text>
+    </g>
+  </g>
+
+  <text x="35" y="24" class="sub">Custom trophies (stable • hosted in repo)</text>
+</svg>
