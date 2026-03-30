@@ -17,6 +17,7 @@
         <li>🎓 <b>Major:</b> Industrial Engineering (Focus on Optimization & Data)</li>
         <li>🤖 <b>AI Engineering:</b> Developing AI Agents & Machine Learning Models</li>
         <li>📊 <b>Data Analysis:</b> Extracting insights from complex financial/crypto datasets</li>
+        <li>🌐 <b>Blog:</b> <a href="https://kwonminseok242.github.io/">kwonminseok242.github.io</a></li>
         <li>💻 <b>Current:</b> Strengthening CS fundamentals & preparing for Softeer Bootcamp</li>
       </ul>
     </td>
@@ -81,6 +82,7 @@
 
 ## 📫 Connect with me
 <p align="left">
+  <a href="https://kwonminseok242.github.io/"><img src="https://img.shields.io/badge/Blog-121011?style=flat-square&logo=githubpages&logoColor=white"/></a>
   <a href="https://github.com/kwonminseok242"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:kwonminseok7364@naver.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
