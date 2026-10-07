@@ -61,11 +61,7 @@
 
 ## 🌿 3D Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-green-animate.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-green-animate.svg">
-    <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="kwonminseok242's 3D Contribution Graph" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-night-rainbow-animate.svg" width="100%" alt="kwonminseok242's 3D Contribution Graph" />
 </p>
 
 ---
