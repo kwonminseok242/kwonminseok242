@@ -2,10 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=280&text=Hello+i%27m+Minseok&fontSize=70&fontAlign=50&fontAlignY=50&desc=Industrial%20Engineering%20|%20AI%20Engineering%20|%20Data%20Analysis&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwonminseok242&label=VISITORS&style=flat-square&color=6a737d" alt="visitor badge" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/assets/loop.gif" width="100%" />
 </p>
 
