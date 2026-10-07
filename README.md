@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/kwonminseok242/kwonminseok242/blob/main/calcifer.gif" />
+      <img src="https://github.com/kwonminseok242/kwonminseok242/raw/main/calcifer.gif" width="180" />
     </td>
   </tr>
 </table>
@@ -42,40 +42,42 @@
 
 ### 🏗️ Backend & Dev-Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-### 📱 Cross-Platform
+### 📱 Cross-Platform & App
 <p align="left">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 Contribution & Status
-
-### 🌟 GitHub Trophies
+## 🌿 3D Contribution Graph
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kwonminseok242&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-green-animate.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-green-animate.svg">
+    <img src="https://raw.githubusercontent.com/kwonminseok242/kwonminseok242/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="kwonminseok242's 3D Contribution Graph" />
+  </picture>
 </p>
 
-### 📊 Stats & Language Highlights
+---
+
+## 📊 Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kwonminseok242&show_icons=true&theme=tokyonight" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kwonminseok242&layout=compact&theme=tokyonight" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight" height="180" />
-  <a href="https://solved.ac/profile/rnjsalstjr">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsalstjr" height="180" alt="Solved.ac Profile"/>
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kwonminseok242&theme=tokyonight" height="175" />
 </p>
 
 ---
